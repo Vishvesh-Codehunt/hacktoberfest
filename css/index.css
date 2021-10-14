@@ -755,6 +755,25 @@ div#content div#contribution-rules ul li {
   border: solid #ff0844 1px;
 }
 
+/* footer part  */
+.help-head{
+  text-align:center;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+.link-ul{
+  text-align:center;
+  padding: 0; list-style: none;
+}
+.link-ul li{
+  margin-top:5px;
+  margin-bottom:5px;
+  text-decoration: underline;
+}
+.editor-row{
+  padding-left:60px;
+}
 @media (min-width: 992px) {
   .single-tips .tip {
     border-left: 1px solid rgba(0, 0, 0, 0.125);
